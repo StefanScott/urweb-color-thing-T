@@ -2,7 +2,7 @@
 
 This code is identical to the code for the other repository `urweb-color-thing-THING` except:
 
-- Here the table is named `t` - and in the other repository it is named `thing`
+- Here the "child" table is named `t` - and in the other repository it is named `thing`
 
 The code in *this* repo (using table named `t`) compiles and runs fine!
 
