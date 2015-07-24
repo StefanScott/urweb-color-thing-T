@@ -1,6 +1,6 @@
 # urweb-color-thing-T
 
-This code is identical to the code for the other repository `urweb-color-thing-THING` except:
+The code in this repo is identical to the code in the other repo `urweb-color-thing-THING` except:
 
 - Here the "child" table is named `t` - and in the other repository it is named `thing`
 
